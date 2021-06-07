@@ -12,3 +12,4 @@ const printFibonacciSequenceUptoNTerms = (n) => {
     n2 = nextTerm;
   }
 };
+
